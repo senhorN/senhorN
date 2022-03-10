@@ -1,4 +1,6 @@
-<b> Bem vindo(a)<b/>
+#Bem vindo(a)
+#Sou estudante de Analíse desenvolvimento de sistemas
+#Jogador de xadrez nas horas vagas!
 
 
 
