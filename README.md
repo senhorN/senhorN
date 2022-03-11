@@ -1,5 +1,7 @@
-<h1>Bem vindo</h1>
-<h4>Estudante de Analíse desenvolvimento de sistemas 💻</h4>
+<h1>Welcome!</h1>
+<h4>Systems development analysis student 💻</h4>
+<h4>São paulo, Brazil ✨</h4>
+<h4>up!📈 </h4>
 
 
 
