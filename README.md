@@ -1,5 +1,5 @@
 <h1>Welcome!</h1>
-<h4>Systems development analysis student 💻</h4>
+<h4>Dev 💻</h4>
 <h4>Brazil 🔰</h4>
 <h4>Studing: C# 👾</h4>
 
