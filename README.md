@@ -1,5 +1,4 @@
 <h1 align="center">Welcome!</h1>
-<h4 align="center">Dev 💻</h4>
 <h4 align="center">Studying: .Net C# 👾</h4>
 <h4 align="center">The feture is now 🦾</h4>
 
