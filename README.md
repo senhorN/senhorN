@@ -1,7 +1,7 @@
 <h1>Welcome!</h1>
 <h4>Dev 💻</h4>
 <h4>Brazil 🔰</h4>
-<h4>Studying:.Net C# 👾</h4>
+<h4>Studying: .Net C# 👾</h4>
 
 
 
