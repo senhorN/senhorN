@@ -27,8 +27,8 @@
   <img align="center" alt="senhorN-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   </div>
   
-  <hr>
- 
+  
+ #
   
   <div align="left">
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-pereira-074595185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
