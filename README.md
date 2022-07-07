@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senhorN&label=Profile%20views&color=0e75b6&style=flat" alt="senhorN" /> </p>
 <h4 align="left">Systems development analysis student | Fatec 💻</h4>
-<h4 align="left">love for chess ♟</h4>
-<h2 align="left"> 🔙🔚</h2>
 
 
 
