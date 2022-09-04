@@ -1,8 +1,9 @@
 <h1 align="left">Welcome! ✌🏽</h1>
 
 
-<h4 align="left">Systems development analysis student | Fatec 💻</h4>
-<h4>3/6</h4>
+<h4 align="left">Systems development analysis student | Fatec 💻  3/6</h4>
+<h4>Programmer Aspirant 🆙</h4>
+
 
 
 
