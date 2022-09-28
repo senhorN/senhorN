@@ -3,7 +3,6 @@
 
 <h4 align="left">Systems development analysis student | Fatec 💻  3/6</h4>
 <h4 align="left">.NET Student 🌐</h4>
-<h4 align="left"> </h4>
 
 
 
