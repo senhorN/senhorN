@@ -1,7 +1,7 @@
 # Welcome! ✌🏽
 
 #### Systems development analysis student | Fatec 💻  3/6
-#### .NET Student 🌐
+#### .Net Student 🌐
 
 
 </div>
