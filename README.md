@@ -1,23 +1,7 @@
-<h1 align="left">Welcome! ✌🏽</h1>
+# Welcome! ✌🏽
 
-
-<h4 align="left">Systems development analysis student | Fatec 💻  3/6</h4>
-<h4 align="left">.NET Student 🌐</h4>
-
-
-
-
-
-
-
-
-
-
-<div align="left">
-  <a href="https://github.com/senhorN">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=senhorN&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorN&layout=compact&langs_count=7&theme=blue-green"/>
-    
+#### Systems development analysis student | Fatec 💻  3/6
+#### .NET Student 🌐
 
 
 </div>
