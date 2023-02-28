@@ -1,7 +1,7 @@
 <h1> Welcome! ✌🏽 </h1>
 
 <h4>Systems development analysis student | Fatec 💻  4/6</h4>
-<h4>.Net Student 🌐<h4>
+
 
 <div>
  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=senhorN&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
