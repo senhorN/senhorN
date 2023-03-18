@@ -1,6 +1,7 @@
 <h1> Welcome! ✌🏽 </h1>
 
 <h4>Systems development analysis student | Fatec 💻  4/6</h4>
+<h4>work with what I love ⚡️</h4>
 
 
 <div>
