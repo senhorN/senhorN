@@ -1,7 +1,7 @@
 <h1> Welcome! ✌🏽 </h1>
 
 <h4>Systems development analysis student | Fatec 💻  4/6</h4>
-<h4>work with what I love ⚡️</h4>
+<h4>Work with what I love ⚡️</h4>
 
 
 <div>
@@ -11,15 +11,6 @@
  <div align="center"> 
 
 
- 
-<!--
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=senhorN&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=senhorN&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senhorN&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senhorN&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=senhorN&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
-
---> 
   
  <div align="left "style="display: inline_block"><br>
 
@@ -27,7 +18,12 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+          
+          
   </div>
   
 #
