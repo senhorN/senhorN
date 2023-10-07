@@ -1,3 +1,4 @@
+![github](https://github.com/senhorN/senhorN/assets/90424448/b5061fe2-ab7c-4307-8d42-9519055fc77e)
 <h1>Welcome!✌️</h1>
 <li>Systems Analysis and Development Student💻</li>
 <li>Working with Oracle APEX | PL/SQL 💼 </li>
@@ -6,8 +7,8 @@
 <hr>
 <div>
   <a href="https://github.com/senhorN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senhorN&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorN&layout=compact&langs_count=7&theme=midnight-purple"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senhorN&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorN&layout=compact&langs_count=7&theme=chartreuse-dark"/>   
   <img src="https://producaodejogos.com/wp-content/uploads/2018/05/animacao_megaman_-running.gif">
 </div>
 
