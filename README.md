@@ -1,6 +1,6 @@
 <h1>Welcome!✌️</h1>
 <li>Systems Analysis and Development Student💻</li>
-<li>Web Developer | Oracle APEX | PL/SQL 🛠 </li>
+<li>Working with Oracle APEX | PL/SQL 🛠 </li>
 <li>Knowledge in evaluating technological solutions and proposing improvements to optimize business processes. 💡</li>
 <li>Every effort has its reward.li>
 <hr>
