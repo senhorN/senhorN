@@ -1,8 +1,8 @@
 <h1>Welcome!✌️</h1>
 <li>Systems Analysis and Development Student💻</li>
-<li>Working with Oracle APEX | PL/SQL 🛠 </li>
+<li>Working with Oracle APEX | PL/SQL 💼 </li>
 <li>Knowledge in evaluating technological solutions and proposing improvements to optimize business processes. 💡</li>
-<li>Every effort has its reward.li>
+<li>Every effort has its reward.💎</li>
 <hr>
 <div>
   <a href="https://github.com/senhorN">
