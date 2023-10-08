@@ -1,5 +1,4 @@
 ![github](https://github.com/senhorN/senhorN/assets/90424448/b5061fe2-ab7c-4307-8d42-9519055fc77e)
-<h1>Welcome!✌️</h1>
 <li>Systems Analysis and Development Student💻</li>
 <li>Working with Oracle APEX | PL/SQL 💼 </li>
 <li>Knowledge in evaluating technological solutions and proposing improvements to optimize business processes. 💡</li>
