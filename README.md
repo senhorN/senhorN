@@ -1,8 +1,8 @@
 ![github](https://github.com/senhorN/senhorN/assets/90424448/b5061fe2-ab7c-4307-8d42-9519055fc77e)
-<li>Systems Analysis and Development Student💻</li>
-<li>Working with Oracle APEX | PL/SQL 💼 </li>
-<li>Knowledge in evaluating technological solutions and proposing improvements to optimize business processes. 💡</li>
-<li>Every effort has its reward.💎</li>
+- Systems Analysis and Development Student💻
+- Working with Oracle APEX | PL/SQL 💼 
+- Knowledge in evaluating technological solutions and proposing improvements to optimize business processes. 💡
+- Every effort has its reward.💎
 <hr>
 <div>
   <a href="https://github.com/senhorN">
