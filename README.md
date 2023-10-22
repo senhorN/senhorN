@@ -9,9 +9,6 @@ Console.WriteLine("- Working with Oracle APEX | PL/SQL 💼");
 Console.WriteLine("- Every effort has its reward.💎");
 }
 ```
-
-
-<hr>
 <div>
   <a href="https://github.com/senhorN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senhorN&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
