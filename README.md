@@ -1,7 +1,16 @@
 ![github](https://github.com/senhorN/senhorN/assets/90424448/b5061fe2-ab7c-4307-8d42-9519055fc77e)
-- Systems Analysis and Development Student💻
-- Working with Oracle APEX | PL/SQL 💼 
-- Every effort has its reward.💎
+
+
+```c#
+static void Main(String [] args){
+
+Console.WriteLine("- Systems Analysis and Development Student💻");
+Console.WriteLine("- Working with Oracle APEX | PL/SQL 💼");
+Console.WriteLine("- Every effort has its reward.💎");
+}
+```
+
+
 <hr>
 <div>
   <a href="https://github.com/senhorN">
