@@ -42,9 +42,3 @@ Console.WriteLine("- Every effort has its reward.💎");
 
 
 
-
-
-
-
-
-
