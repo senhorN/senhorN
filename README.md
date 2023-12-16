@@ -4,6 +4,7 @@ static void Main(String [] args){
 Console.WriteLine("- Systems Analysis and Development Student💻");
 Console.WriteLine("- Working with Oracle APEX | PL/SQL 💼");
 Console.WriteLine("- Every effort has its reward.💎");
+Console.WriteLine("- game developer in his spare time 👾");
 }
 ```
 <div>
