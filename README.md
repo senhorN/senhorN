@@ -7,11 +7,14 @@ Console.WriteLine("- Every effort has its reward.💎");
 Console.WriteLine("- game developer in his spare time 👾");
 }
 ```
+
+<!--
 <div>
   <a href="https://github.com/senhorN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senhorN&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorN&layout=compact&langs_count=7&theme=chartreuse-dark"/>   
 </div>
+-->
 
 <h3>Badges</h3>
 <div>
@@ -22,6 +25,8 @@ Console.WriteLine("- game developer in his spare time 👾");
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />        
 </div>
+
+
 <h3>Contact me</h3>
 <div> 
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-carloto-074595185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
