@@ -29,7 +29,7 @@ Console.WriteLine("- game developer in his spare time 👾");
 
 <h3>Contact me</h3>
 <div> 
-  <a href="https://www.linkedin.com/in/n%C3%ADcolas-carloto-074595185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/n%C3%ADcolas-carloto-074595185/](https://www.linkedin.com/in/nicolas-carloto-2a935b2ba/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
