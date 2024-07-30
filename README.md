@@ -10,7 +10,7 @@ while !dead:
 ## :hammer_and_wrench: Skills
 
 <details title="Languages" align='left'>
-<br>
+
 <summary align='left'>Framework js</summary>
 <div align="justify">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" height="30" /> 
