@@ -11,12 +11,12 @@
     │   └── /currently working at CS Compusoftware
     |       └── at https://www.cscompusoftware.com.br/
     │
-    ├── /os/dual boot
-    │   ├── /linux
-    │   │   └── Ubuntu (main)
-    │   └── /windows
-    │       └── Windows 11
-    │
+    ├── /os/
+    |   └──  dual_boot
+    │        ├── /linux
+    │        │   └── Ubuntu (main)
+    │        └── /windows
+    │            └── Windows 11
     ├── /languages
     │   ├── C#
     │   ├── Java
