@@ -5,9 +5,9 @@
     /About_Me
     │
     ├── /bio
-    │   ├── he/him - brazilian
+    │   ├── /brazilian
     │   ├── /system analyst
-    │   │   
+    │   │- ?0190999901/error.jpg   
     │   └── /currently working at CS Compusoftware
     |       └── at https://www.cscompusoftware.com.br/
     │
