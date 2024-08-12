@@ -1,6 +1,6 @@
 <table>
   <tr>
-<p>
+
 
     /About_Me
     │
@@ -28,7 +28,7 @@
         ├── Next js 
         ├── Node js 
         └── Typescript
-    </p>    
+  
   </tr>
 </tr>
 </table>
