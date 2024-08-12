@@ -11,7 +11,7 @@
     │   └── /currently working at CS Compusoftware
     |       └── at https://www.cscompusoftware.com.br/
     │
-    ├── /os
+    ├── /os/dual boot
     │   ├── /linux
     │   │   └── Ubuntu (main)
     │   └── /windows
