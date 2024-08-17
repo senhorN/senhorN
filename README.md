@@ -7,16 +7,16 @@
     ├── /bio
     │   ├── /brazilian
     │   ├── /system analyst
-    │   │- ?0190999901/error.jpg   
+    │   │- /Random
     │   └── /currently working at CS Compusoftware
     |       └── at https://www.cscompusoftware.com.br/
     │
     ├── /os/
     |   └──  dual_boot
     │        ├── /linux
-    │        │   └── Ubuntu (main)
+    │        │   └── Ubuntu 
     │        └── /windows
-    │            └── Windows 11
+    │            └── Windows 11 (main)
     ├── /languages
     │   ├── C#
     │   ├── Java
